@@ -1,6 +1,6 @@
 ktor {
     deployment {
-        port = 8082
+        port = 8080
         port = ${?PORT}
     }
     application {
